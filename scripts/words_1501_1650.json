@@ -1,0 +1,902 @@
+[
+  {
+    "id": "1501",
+    "word": "finger",
+    "pos": "noun",
+    "meaning_ja": "指"
+  },
+  {
+    "id": "1502",
+    "word": "relevant",
+    "pos": "adjective",
+    "meaning_ja": "関係のある"
+  },
+  {
+    "id": "1503",
+    "word": "explore",
+    "pos": "verb",
+    "meaning_ja": "探る"
+  },
+  {
+    "id": "1504",
+    "word": "leadership",
+    "pos": "noun",
+    "meaning_ja": "指導権"
+  },
+  {
+    "id": "1505",
+    "word": "commitment",
+    "pos": "noun",
+    "meaning_ja": "約束、義務"
+  },
+  {
+    "id": "1506",
+    "word": "wake",
+    "pos": "verb",
+    "meaning_ja": "起こす"
+  },
+  {
+    "id": "1507",
+    "word": "necessarily",
+    "pos": "adverb",
+    "meaning_ja": "必ずしも"
+  },
+  {
+    "id": "1508",
+    "word": "bright",
+    "pos": "adjective",
+    "meaning_ja": "輝く"
+  },
+  {
+    "id": "1509",
+    "word": "frame",
+    "pos": "noun",
+    "meaning_ja": "骨組み、体格"
+  },
+  {
+    "id": "1510",
+    "word": "slowly",
+    "pos": "adverb",
+    "meaning_ja": "ゆっくりと"
+  },
+  {
+    "id": "1511",
+    "word": "bond",
+    "pos": "noun",
+    "meaning_ja": "絆"
+  },
+  {
+    "id": "1512",
+    "word": "hire",
+    "pos": "verb",
+    "meaning_ja": "雇う"
+  },
+  {
+    "id": "1513",
+    "word": "hole",
+    "pos": "noun",
+    "meaning_ja": "穴"
+  },
+  {
+    "id": "1514",
+    "word": "tie",
+    "pos": "verb",
+    "meaning_ja": "つなげる"
+  },
+  {
+    "id": "1515",
+    "word": "internal",
+    "pos": "adjective",
+    "meaning_ja": "内部の"
+  },
+  {
+    "id": "1516",
+    "word": "chain",
+    "pos": "noun",
+    "meaning_ja": "鎖"
+  },
+  {
+    "id": "1517",
+    "word": "literature",
+    "pos": "noun",
+    "meaning_ja": "文学"
+  },
+  {
+    "id": "1518",
+    "word": "victim",
+    "pos": "noun",
+    "meaning_ja": "犠牲者"
+  },
+  {
+    "id": "1519",
+    "word": "threaten",
+    "pos": "verb",
+    "meaning_ja": "脅かす"
+  },
+  {
+    "id": "1520",
+    "word": "division",
+    "pos": "noun",
+    "meaning_ja": "分割"
+  },
+  {
+    "id": "1521",
+    "word": "secure",
+    "pos": "verb",
+    "meaning_ja": "確保する"
+  },
+  {
+    "id": "1522",
+    "word": "amaze",
+    "pos": "verb",
+    "meaning_ja": "驚かす"
+  },
+  {
+    "id": "1523",
+    "word": "device",
+    "pos": "noun",
+    "meaning_ja": "装置"
+  },
+  {
+    "id": "1524",
+    "word": "birth",
+    "pos": "noun",
+    "meaning_ja": "誕生"
+  },
+  {
+    "id": "1525",
+    "word": "forest",
+    "pos": "noun",
+    "meaning_ja": "森"
+  },
+  {
+    "id": "1526",
+    "word": "label",
+    "pos": "noun",
+    "meaning_ja": "ラベル"
+  },
+  {
+    "id": "1527",
+    "word": "root",
+    "pos": "noun",
+    "meaning_ja": "根"
+  },
+  {
+    "id": "1528",
+    "word": "factory",
+    "pos": "noun",
+    "meaning_ja": "工場"
+  },
+  {
+    "id": "1529",
+    "word": "expense",
+    "pos": "noun",
+    "meaning_ja": "費用"
+  },
+  {
+    "id": "1530",
+    "word": "channel",
+    "pos": "noun",
+    "meaning_ja": "チャンネル"
+  },
+  {
+    "id": "1531",
+    "word": "investigate",
+    "pos": "verb",
+    "meaning_ja": "調査する"
+  },
+  {
+    "id": "1532",
+    "word": "recommendation",
+    "pos": "noun",
+    "meaning_ja": "推薦"
+  },
+  {
+    "id": "1533",
+    "word": "rank",
+    "pos": "noun",
+    "meaning_ja": "階級、地位"
+  },
+  {
+    "id": "1534",
+    "word": "typical",
+    "pos": "adjective",
+    "meaning_ja": "典型的な"
+  },
+  {
+    "id": "1535",
+    "word": "west",
+    "pos": "noun",
+    "meaning_ja": "西"
+  },
+  {
+    "id": "1536",
+    "word": "friendly",
+    "pos": "adjective",
+    "meaning_ja": "友好的"
+  },
+  {
+    "id": "1537",
+    "word": "resident",
+    "pos": "adjective",
+    "meaning_ja": "居住者"
+  },
+  {
+    "id": "1538",
+    "word": "provision",
+    "pos": "noun",
+    "meaning_ja": "規定"
+  },
+  {
+    "id": "1539",
+    "word": "concentrate",
+    "pos": "verb",
+    "meaning_ja": "集中する"
+  },
+  {
+    "id": "1540",
+    "word": "plenty",
+    "pos": "adjective",
+    "meaning_ja": "たくさんの"
+  },
+  {
+    "id": "1541",
+    "word": "export",
+    "pos": "verb",
+    "meaning_ja": "輸出する"
+  },
+  {
+    "id": "1542",
+    "word": "entirely",
+    "pos": "adverb",
+    "meaning_ja": "完全に"
+  },
+  {
+    "id": "1543",
+    "word": "strongly",
+    "pos": "adverb",
+    "meaning_ja": "強く"
+  },
+  {
+    "id": "1544",
+    "word": "bridge",
+    "pos": "noun",
+    "meaning_ja": "橋"
+  },
+  {
+    "id": "1545",
+    "word": "consist",
+    "pos": "verb",
+    "meaning_ja": "成る"
+  },
+  {
+    "id": "1546",
+    "word": "graduate",
+    "pos": "noun",
+    "meaning_ja": "卒業する"
+  },
+  {
+    "id": "1547",
+    "word": "brand",
+    "pos": "noun",
+    "meaning_ja": "商標"
+  },
+  {
+    "id": "1548",
+    "word": "moral",
+    "pos": "adjective",
+    "meaning_ja": "道義をわきまえた"
+  },
+  {
+    "id": "1549",
+    "word": "insist",
+    "pos": "verb",
+    "meaning_ja": "主張する"
+  },
+  {
+    "id": "1550",
+    "word": "combination",
+    "pos": "noun",
+    "meaning_ja": "組み合わせ"
+  },
+  {
+    "id": "1551",
+    "word": "abuse",
+    "pos": "noun",
+    "meaning_ja": "乱用する"
+  },
+  {
+    "id": "1552",
+    "word": "ice",
+    "pos": "noun",
+    "meaning_ja": "氷"
+  },
+  {
+    "id": "1553",
+    "word": "principal",
+    "pos": "adjective",
+    "meaning_ja": "長"
+  },
+  {
+    "id": "1554",
+    "word": "master",
+    "pos": "noun",
+    "meaning_ja": "管理人"
+  },
+  {
+    "id": "1555",
+    "word": "definitely",
+    "pos": "adverb",
+    "meaning_ja": "間違いなく"
+  },
+  {
+    "id": "1556",
+    "word": "session",
+    "pos": "noun",
+    "meaning_ja": "期間"
+  },
+  {
+    "id": "1557",
+    "word": "grade",
+    "pos": "noun",
+    "meaning_ja": "成績"
+  },
+  {
+    "id": "1558",
+    "word": "nevertheless",
+    "pos": "adverb",
+    "meaning_ja": "それにもかかわらず"
+  },
+  {
+    "id": "1559",
+    "word": "predict",
+    "pos": "verb",
+    "meaning_ja": "予想する"
+  },
+  {
+    "id": "1560",
+    "word": "previously",
+    "pos": "adverb",
+    "meaning_ja": "以前に"
+  },
+  {
+    "id": "1561",
+    "word": "protection",
+    "pos": "noun",
+    "meaning_ja": "保護"
+  },
+  {
+    "id": "1562",
+    "word": "largely",
+    "pos": "adverb",
+    "meaning_ja": "だいたいは"
+  },
+  {
+    "id": "1563",
+    "word": "wed",
+    "pos": "verb",
+    "meaning_ja": "結婚する"
+  },
+  {
+    "id": "1564",
+    "word": "rent",
+    "pos": "verb",
+    "meaning_ja": "賃借りする"
+  },
+  {
+    "id": "1565",
+    "word": "shot",
+    "pos": "noun",
+    "meaning_ja": "打つ"
+  },
+  {
+    "id": "1566",
+    "word": "appearance",
+    "pos": "noun",
+    "meaning_ja": "外見"
+  },
+  {
+    "id": "1567",
+    "word": "reasonable",
+    "pos": "adjective",
+    "meaning_ja": "程よい"
+  },
+  {
+    "id": "1568",
+    "word": "guarantee",
+    "pos": "noun",
+    "meaning_ja": "保障する"
+  },
+  {
+    "id": "1569",
+    "word": "till",
+    "pos": "preposition",
+    "meaning_ja": "まで"
+  },
+  {
+    "id": "1570",
+    "word": "theme",
+    "pos": "noun",
+    "meaning_ja": "テーマ"
+  },
+  {
+    "id": "1571",
+    "word": "judgment",
+    "pos": "noun",
+    "meaning_ja": "判決"
+  },
+  {
+    "id": "1572",
+    "word": "odd",
+    "pos": "adjective",
+    "meaning_ja": "変な"
+  },
+  {
+    "id": "1573",
+    "word": "approve",
+    "pos": "verb",
+    "meaning_ja": "承認する"
+  },
+  {
+    "id": "1574",
+    "word": "loan",
+    "pos": "noun",
+    "meaning_ja": "ローン"
+  },
+  {
+    "id": "1575",
+    "word": "definition",
+    "pos": "noun",
+    "meaning_ja": "定義"
+  },
+  {
+    "id": "1576",
+    "word": "elect",
+    "pos": "verb",
+    "meaning_ja": "選ぶ"
+  },
+  {
+    "id": "1577",
+    "word": "atmosphere",
+    "pos": "noun",
+    "meaning_ja": "雰囲気"
+  },
+  {
+    "id": "1578",
+    "word": "farmer",
+    "pos": "noun",
+    "meaning_ja": "農夫"
+  },
+  {
+    "id": "1579",
+    "word": "comparison",
+    "pos": "noun",
+    "meaning_ja": "比較"
+  },
+  {
+    "id": "1580",
+    "word": "characteristic",
+    "pos": "noun",
+    "meaning_ja": "特徴"
+  },
+  {
+    "id": "1581",
+    "word": "license",
+    "pos": "noun",
+    "meaning_ja": "免許"
+  },
+  {
+    "id": "1582",
+    "word": "rely",
+    "pos": "verb",
+    "meaning_ja": "頼る"
+  },
+  {
+    "id": "1583",
+    "word": "narrow",
+    "pos": "adjective",
+    "meaning_ja": "狭い"
+  },
+  {
+    "id": "1584",
+    "word": "succeed",
+    "pos": "verb",
+    "meaning_ja": "成功する"
+  },
+  {
+    "id": "1585",
+    "word": "identity",
+    "pos": "noun",
+    "meaning_ja": "身元、独自性"
+  },
+  {
+    "id": "1586",
+    "word": "desk",
+    "pos": "noun",
+    "meaning_ja": "机"
+  },
+  {
+    "id": "1587",
+    "word": "permit",
+    "pos": "verb",
+    "meaning_ja": "許可する"
+  },
+  {
+    "id": "1588",
+    "word": "seriously",
+    "pos": "adverb",
+    "meaning_ja": "深刻に"
+  },
+  {
+    "id": "1589",
+    "word": "wild",
+    "pos": "adjective",
+    "meaning_ja": "野生の"
+  },
+  {
+    "id": "1590",
+    "word": "empty",
+    "pos": "adjective",
+    "meaning_ja": "空の"
+  },
+  {
+    "id": "1591",
+    "word": "commission",
+    "pos": "noun",
+    "meaning_ja": "任務"
+  },
+  {
+    "id": "1592",
+    "word": "unique",
+    "pos": "adjective",
+    "meaning_ja": "ユニークな、独特な"
+  },
+  {
+    "id": "1593",
+    "word": "association",
+    "pos": "noun",
+    "meaning_ja": "協会、組合"
+  },
+  {
+    "id": "1594",
+    "word": "instrument",
+    "pos": "noun",
+    "meaning_ja": "器具、楽器"
+  },
+  {
+    "id": "1595",
+    "word": "investor",
+    "pos": "noun",
+    "meaning_ja": "投資家"
+  },
+  {
+    "id": "1596",
+    "word": "practical",
+    "pos": "adjective",
+    "meaning_ja": "実際の"
+  },
+  {
+    "id": "1597",
+    "word": "tea",
+    "pos": "noun",
+    "meaning_ja": "茶"
+  },
+  {
+    "id": "1598",
+    "word": "lovely",
+    "pos": "adjective",
+    "meaning_ja": "美しい・素晴らしい"
+  },
+  {
+    "id": "1599",
+    "word": "soft",
+    "pos": "adjective",
+    "meaning_ja": "柔らかい"
+  },
+  {
+    "id": "1600",
+    "word": "row",
+    "pos": "noun",
+    "meaning_ja": "列"
+  },
+  {
+    "id": "1601",
+    "word": "youth",
+    "pos": "noun",
+    "meaning_ja": "青年時代、若いころ"
+  },
+  {
+    "id": "1602",
+    "word": "lock",
+    "pos": "noun",
+    "meaning_ja": "錠前"
+  },
+  {
+    "id": "1603",
+    "word": "fuel",
+    "pos": "noun",
+    "meaning_ja": "燃料"
+  },
+  {
+    "id": "1604",
+    "word": "expectation",
+    "pos": "noun",
+    "meaning_ja": "期待"
+  },
+  {
+    "id": "1605",
+    "word": "employment",
+    "pos": "noun",
+    "meaning_ja": "雇用"
+  },
+  {
+    "id": "1606",
+    "word": "celebrate",
+    "pos": "verb",
+    "meaning_ja": "祝う"
+  },
+  {
+    "id": "1607",
+    "word": "sexual",
+    "pos": "adjective",
+    "meaning_ja": "性的な"
+  },
+  {
+    "id": "1608",
+    "word": "shoulder",
+    "pos": "noun",
+    "meaning_ja": "肩"
+  },
+  {
+    "id": "1609",
+    "word": "breath",
+    "pos": "noun",
+    "meaning_ja": "息"
+  },
+  {
+    "id": "1610",
+    "word": "increasingly",
+    "pos": "adverb",
+    "meaning_ja": "ますます"
+  },
+  {
+    "id": "1611",
+    "word": "import",
+    "pos": "verb",
+    "meaning_ja": "輸入する"
+  },
+  {
+    "id": "1612",
+    "word": "bottle",
+    "pos": "noun",
+    "meaning_ja": "ボトル"
+  },
+  {
+    "id": "1613",
+    "word": "ourselves",
+    "pos": "pronoun",
+    "meaning_ja": "私たち自身"
+  },
+  {
+    "id": "1614",
+    "word": "sheet",
+    "pos": "noun",
+    "meaning_ja": "シーツ"
+  },
+  {
+    "id": "1615",
+    "word": "engine",
+    "pos": "noun",
+    "meaning_ja": "エンジン"
+  },
+  {
+    "id": "1616",
+    "word": "cast",
+    "pos": "verb",
+    "meaning_ja": "配役する"
+  },
+  {
+    "id": "1617",
+    "word": "notion",
+    "pos": "noun",
+    "meaning_ja": "考え"
+  },
+  {
+    "id": "1618",
+    "word": "conservative",
+    "pos": "adjective",
+    "meaning_ja": "保守的な"
+  },
+  {
+    "id": "1619",
+    "word": "journey",
+    "pos": "noun",
+    "meaning_ja": "旅"
+  },
+  {
+    "id": "1620",
+    "word": "opposition",
+    "pos": "noun",
+    "meaning_ja": "反対"
+  },
+  {
+    "id": "1621",
+    "word": "relief",
+    "pos": "noun",
+    "meaning_ja": "安堵"
+  },
+  {
+    "id": "1622",
+    "word": "debt",
+    "pos": "noun",
+    "meaning_ja": "借金"
+  },
+  {
+    "id": "1623",
+    "word": "honor",
+    "pos": "noun",
+    "meaning_ja": "名誉"
+  },
+  {
+    "id": "1624",
+    "word": "outcome",
+    "pos": "noun",
+    "meaning_ja": "結果"
+  },
+  {
+    "id": "1625",
+    "word": "blame",
+    "pos": "verb",
+    "meaning_ja": "責める"
+  },
+  {
+    "id": "1626",
+    "word": "explanation",
+    "pos": "noun",
+    "meaning_ja": "説明"
+  },
+  {
+    "id": "1627",
+    "word": "arise",
+    "pos": "verb",
+    "meaning_ja": "発生する"
+  },
+  {
+    "id": "1628",
+    "word": "musical",
+    "pos": "adjective",
+    "meaning_ja": "音楽の、音楽の才能がある"
+  },
+  {
+    "id": "1629",
+    "word": "recover",
+    "pos": "verb",
+    "meaning_ja": "回復する"
+  },
+  {
+    "id": "1630",
+    "word": "dad",
+    "pos": "noun",
+    "meaning_ja": "パパ"
+  },
+  {
+    "id": "1631",
+    "word": "stretch",
+    "pos": "verb",
+    "meaning_ja": "伸ばす"
+  },
+  {
+    "id": "1632",
+    "word": "declare",
+    "pos": "verb",
+    "meaning_ja": "宣言する"
+  },
+  {
+    "id": "1633",
+    "word": "retire",
+    "pos": "verb",
+    "meaning_ja": "退職する、引退する"
+  },
+  {
+    "id": "1634",
+    "word": "tiny",
+    "pos": "adjective",
+    "meaning_ja": "とても小さい"
+  },
+  {
+    "id": "1635",
+    "word": "careful",
+    "pos": "adjective",
+    "meaning_ja": "気を付ける"
+  },
+  {
+    "id": "1636",
+    "word": "suitable",
+    "pos": "adjective",
+    "meaning_ja": "ふさわしい"
+  },
+  {
+    "id": "1637",
+    "word": "native",
+    "pos": "adjective",
+    "meaning_ja": "母国"
+  },
+  {
+    "id": "1638",
+    "word": "fruit",
+    "pos": "noun",
+    "meaning_ja": "くだもの"
+  },
+  {
+    "id": "1639",
+    "word": "analyze",
+    "pos": "verb",
+    "meaning_ja": "分析する"
+  },
+  {
+    "id": "1640",
+    "word": "witness",
+    "pos": "noun",
+    "meaning_ja": "証人"
+  },
+  {
+    "id": "1641",
+    "word": "mail",
+    "pos": "noun",
+    "meaning_ja": "郵便"
+  },
+  {
+    "id": "1642",
+    "word": "terrible",
+    "pos": "adjective",
+    "meaning_ja": "ひどい"
+  },
+  {
+    "id": "1643",
+    "word": "researcher",
+    "pos": "noun",
+    "meaning_ja": "研究者"
+  },
+  {
+    "id": "1644",
+    "word": "ordinary",
+    "pos": "adjective",
+    "meaning_ja": "通常の"
+  },
+  {
+    "id": "1645",
+    "word": "selection",
+    "pos": "noun",
+    "meaning_ja": "選択"
+  },
+  {
+    "id": "1646",
+    "word": "anywhere",
+    "pos": "adverb",
+    "meaning_ja": "どこでも、どこにも"
+  },
+  {
+    "id": "1647",
+    "word": "mental",
+    "pos": "adjective",
+    "meaning_ja": "精神"
+  },
+  {
+    "id": "1648",
+    "word": "participant",
+    "pos": "noun",
+    "meaning_ja": "参加者"
+  },
+  {
+    "id": "1649",
+    "word": "vision",
+    "pos": "noun",
+    "meaning_ja": "視覚"
+  },
+  {
+    "id": "1650",
+    "word": "personality",
+    "pos": "noun",
+    "meaning_ja": "人柄"
+  }
+]
